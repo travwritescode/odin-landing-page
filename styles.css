@@ -11,7 +11,7 @@ body {
     height: 50px;
     justify-content: space-between;
     align-items: center;
-    padding: 0 116px;
+    padding: 0 400px;
 }
 
 .logo {
@@ -39,7 +39,7 @@ a {
     justify-content: space-around;
     align-items: center;
     background-color: #1f2937;
-    padding: 100px 50px;
+    padding: 100px 350px;
 }
 
 .hero-text {
@@ -112,7 +112,7 @@ button {
 .quote-section {
     background-color: #e5e7eb;
     color: #1f2937;
-    padding: 50px 300px;
+    padding: 50px 450px;
 }
 
 .quote {
@@ -130,7 +130,7 @@ button {
 .cta {
     background-color: #3882f6;
     color: white;
-    margin: 100px 200px;
+    margin: 100px 400px;
     padding: 24px;
     border-radius: 12px;
     display: flex;
